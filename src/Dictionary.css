@@ -1,0 +1,23 @@
+.Dictionary section {
+  background-color: white;
+  padding: 20px;
+  border-radius: 6px;
+  margin: 15px 0;
+  box-shadow: rgba(0, 0, 0, 0.111) 0px 1px 4px;
+}
+
+.Dictionary .searchBar {
+  width: 80%;
+  padding: 6px 4px;
+  border: 1px solid #ddd;
+}
+
+.Dictionary .searchButton {
+  width: 20%;
+  padding: 6px 4px;
+  border: 1px solid #ddd;
+}
+
+.Dictionary h4 {
+  margin-bottom: 20px;
+}
